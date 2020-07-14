@@ -21,3 +21,7 @@ The microservice exposes sensor data of IoT system through a RESTful Web Service
 
 link: https://github.com/WiserUFBA/soft-iot-iot-service
 
+### soft-iot-auto-irrigation
+The service collects weather data sensors using [fot-gateway-local-storage](https://github.com/WiserUFBA/fot-gateway-local-storage) and calculates the quantity of water to irrigate the crop.
+
+link: https://github.com/leandrojsa/soft-iot-auto-irrigation
